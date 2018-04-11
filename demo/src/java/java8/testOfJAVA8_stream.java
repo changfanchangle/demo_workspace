@@ -1,3 +1,5 @@
+package java.java8;
+
 import java.io.InputStream;
 import java.util.*;
 import java.util.stream.Collectors;
